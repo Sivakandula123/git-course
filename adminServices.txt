@@ -4,4 +4,8 @@ and change the roles
 manage the database
 
 change1
+<<<<<<< HEAD
 change2 in my database
+=======
+change2 in siva's databse
+>>>>>>> feature3
