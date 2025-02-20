@@ -1,7 +1,7 @@
 add and remove the users
 and change the roles
 
-manage the database and server
+manage the oracle database and server
 
 change1
 change2 in siva's databse
